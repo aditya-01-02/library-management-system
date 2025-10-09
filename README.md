@@ -60,7 +60,7 @@ This will:
 * Borrow/Return with status updates
 * Statistics Dashboard with most popular books
 
-##🎯 Skills Demonstrated
+## 🎯 Skills Demonstrated
 * Backend: database design, queries, application logic
 * Frontend/UI: interactive interface with Gradio
 * Data Modeling: classes for books & users with rules
