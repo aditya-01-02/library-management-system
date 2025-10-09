@@ -37,12 +37,6 @@ It supports managing books (digital & printed), user registration, borrowing & r
   * gradio (UI)
   * sqlite3 (database)
 
-* Structure/Design:
-  * app.py → UI layer
-  * library_service.py → Application logic
-  * database.py → Data persistence
-  * models.py → Data structure definitions
-
 ## 🚀 Getting Started
 1️⃣ Clone the Repository
 <pre>git clone https://github.com/aditya-01-02/library-management-system.git
