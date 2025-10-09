@@ -52,7 +52,7 @@ cd library-management-system</pre>
 This will:
 1. Initialize the database (library.db)
 2. Start the Gradio interface
-3. Open the app in your browser
+3. Open the app in the browser
 
 ## 📊 Example Screens
 * Add Book & View Details
@@ -64,5 +64,4 @@ This will:
 * Backend: database design, queries, application logic
 * Frontend/UI: interactive interface with Gradio
 * Data Modeling: classes for books & users with rules
-* Software Architecture: separation of concerns (UI, logic, DB, models)
 * Problem Solving: managing copies, fines, borrow limits
