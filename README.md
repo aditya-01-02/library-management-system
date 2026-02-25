@@ -31,11 +31,11 @@ It supports managing books (digital & printed), user registration, borrowing & r
 | **`models.py`**          | 📝 Data models (Book & User classes, membership rules)                         |
 
 ## 🛠️ Tech Stack
-* Python (3.8+)
+* Python
 
 * Libraries:
-  * gradio (UI)
-  * sqlite3 (database)
+  * gradio
+  * sqlite3
 
 ## 🚀 Getting Started
 1️⃣ Clone the Repository
